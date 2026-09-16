@@ -17,11 +17,11 @@ Closes
 
 ## 🏗️ Diseño / Arquitectura
 
-<!-- Estructura general de la solución y las decisiones técnicas que la explican. No archivo por archivo. -->
+<!-- Estructura general de la solución y las decisiones técnicas que la explican. Complementar con los módulos o archivos principales que se tocaron: solo los más relevantes, el mínimo necesario para saber por dónde entrar al diff. -->
 
 ## 🎨 UI
 
-<!-- Qué cambió en pantalla y para qué. Adjuntar el antes y el después; para un flujo completo, un video corto. Si no hay cambios visuales, N/A. -->
+<!-- Qué cambió en pantalla, en qué URL y para qué. Adjuntar el antes y el después; para un flujo completo, un video corto. Si no hay cambios visuales, N/A. -->
 
 ## 🧪 Test Plan
 
@@ -31,7 +31,7 @@ Closes
 
 **Casos a validar**
 
-<!-- Cada caso con su resultado esperado. Incluir los de borde cuando importen. -->
+<!-- Cada caso con la URL donde se prueba, cuando corresponda, y su resultado esperado. Incluir los de borde cuando importen. -->
 
 - [ ]
 - [ ] El comportamiento existente no se ve afectado.
